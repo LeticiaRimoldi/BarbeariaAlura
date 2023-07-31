@@ -4,4 +4,4 @@
 
 -Também foi feita a conversão de HTML e CSS para a linguagem JS;
 
--Linguagens de progrmação presentes são: HTML, CSS, JS.
+-Linguagens de programação presentes são: HTML, CSS, JS.
